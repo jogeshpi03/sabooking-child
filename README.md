@@ -16,7 +16,6 @@ and paste it in **your_theme/omsabooking** directory.
 
 
 ## Usage for Locations
-=======================
 
 * For Locations List use ```[omsa_location_list]``` will provides you all locations in 4(default) columns
 * If you control the number of location then use ```posts="10"``` attribute that will provide you latest 10 results ```[omsa_location_list posts="10"]```
