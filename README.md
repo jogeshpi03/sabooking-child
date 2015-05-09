@@ -21,3 +21,9 @@ and paste it in **your_theme/omsabooking** directory.
 * If you control the number of location then use ```posts="10"``` attribute that will provide you latest 10 results ```[omsa_location_list posts="10"]```
 * For columns control you same attribute ```item="2"``` will work like ```[omsa_location_list posts="10" item="2"]```
 * For only featured locations use ```featured="1"``` attribute ```[omsa_location_list posts="10" item="2" featured="1"]```
+
+
+## Usage for Calendar
+
+* For Single Calendar Event lists use ```[omsa_calendar calendar_id="1"]``` 
+* To list all Calendars and its Events use ```[omsa_all_calendar]``` without any extra parameter 
